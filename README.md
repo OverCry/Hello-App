@@ -6,7 +6,7 @@ Wong's Start
 App is able to change the font color as well as the background color. It is also able to present the inputted text into display. All changes can also be reset
 
 ### App Walk-though
-<img src="https://recordit.co/5WmlESti1F" width=200><br>
+![](Gif.gif)
 
 
 ### Required User Stories
